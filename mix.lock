@@ -1,5 +1,7 @@
-%{"earmark": {:hex, :earmark, "0.2.0"},
-  "ex_doc": {:hex, :ex_doc, "0.11.3"},
-  "inch_ex": {:hex, :inch_ex, "0.4.0"},
-  "poison": {:hex, :poison, "1.5.2"},
-  "secure_random": {:hex, :secure_random, "0.2.0"}}
+%{
+  "earmark": {:hex, :earmark, "0.2.0", "bc1636bc2efa0c1c172a5bcbf7c8eb73632d8c4512a6c2dac02d2ae454750af6", [:mix], [], "hexpm", "c41090d8da1eab901250104081ec24cd9aa9282199021b89d7a99e16a2fa6548"},
+  "ex_doc": {:hex, :ex_doc, "0.11.3", "bb16cb3f4135d880ce25279dc19a9d70802bc4f4942f0c3de9e4862517ae3ace", [:mix], [{:earmark, "~> 0.1.17 or ~> 0.2", [hex: :earmark, repo: "hexpm", optional: true]}], "hexpm", "5d625fe95933e37bbedb7042ac7ca5cc9d5eb0f94c95baf300876812dff606e5"},
+  "inch_ex": {:hex, :inch_ex, "0.4.0", "27829de2227edfba8fa5c431088578685c0956128b40522957077963e563e868", [:mix], [{:poison, "~> 1.2", [hex: :poison, repo: "hexpm", optional: false]}], "hexpm", "ddf7ca8ede13624918897398aec29423a163f97328f64a7987899ed71acd69ba"},
+  "poison": {:hex, :poison, "1.5.2", "560bdfb7449e3ddd23a096929fb9fc2122f709bcc758b2d5d5a5c7d0ea848910", [:mix], [], "hexpm", "4afc59dcadf71be7edc8b934b39f554ec7b31e2b1b1a4767383a663f86958ce3"},
+  "secure_random": {:hex, :secure_random, "0.2.0", "d5458ab5613410439c21a2fdbc52e98e6c96338f3ea25d08220c30cfc55f1238", [:mix], [], "hexpm", "d17b17f5b25e38359838ae61165d18724084796fcbdf3c18f09ee5876892c5a0"},
+}
